@@ -24,7 +24,13 @@ $$
 t_{l}\left(x,y\right) =\exp\left[-\mathrm{j}{\frac{k}{2f}}(x^{2}+y^{2})\right]
 $$
 
-![](./figures/Resonant Cavity.png)
+The above are all the processes that can be experienced by laser propagation in the resonant cavity.
+
+The simplified structure of resonant cavity:
+
+![](./figures/resonant_cavity.png)
+
+Simulation results of the transverse mode in a resonant cavity of a planar square mirror with an initial light field in the shape of a triangle:
 
 ![](./figures/tri-194-result.gif)
 
