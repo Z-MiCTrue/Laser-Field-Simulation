@@ -6,6 +6,7 @@ Simulation of self-reproducing field pattern in the laser resonant cavity.
 ## Theories
 
 The process of the laser propagating distance 'z' once in the resonant cavity can be described by the Fresnel diffraction function:
+
 $$
 U(x,y,z)=\frac{\mathrm{e}^{jkz}}{\mathrm{j}\lambda z}\iint_{-\infty}^{\infty}U(\xi,\eta,0)\exp\left\{\mathrm{j}\frac{k}{2z}[(x-\xi)^2+(y-\eta)^2]\right\}\mathrm{d}\xi\mathrm{d}\eta
 $$
